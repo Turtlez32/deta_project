@@ -1,8 +1,9 @@
 // install express with `npm install express` 
 const express = require('express')
 const Deta = require("deta")
+const login = require("DetaLogin")
 
-const deta = Deta('a0iplxoe_LiC7jntPYUBknd48oGYwJ6QiDJcy6v2Q')
+const deta = Deta(login)
 const db = deta.Base('simpledb')
 
 const app = express()
