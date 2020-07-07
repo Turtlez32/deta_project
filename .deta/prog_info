@@ -1,0 +1,1 @@
+{"id":"0fa537ab-2a9c-49d9-adf4-9397890b2c03","space":619,"runtime":"nodejs12.x","name":"turtleware","path":"hbvb8x","project":"a0rmt8ub","account":"270921617325","region":"ap-southeast-1","deps":["express@^4.17.1","deta@0.0.6"],"envs":null,"public":false,"log_level":"debug","reload_deps":false}
